@@ -1,0 +1,50 @@
+.red{
+    border: 2px solid red;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.red:hover {
+    background-color: red;
+}
+.orange{
+    border: 2px solid orange;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.orange:hover {
+    background-color: orange;
+   
+}
+.green{
+    border: 2px solid green;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.green:hover {
+    background-color: green;
+}
+.main {
+    position: relative;
+    left: 350px;
+    border: 2px dotted blue;
+    width: 75px;
+}
+.stand {
+    border: 2px solid;
+    width: 16px;
+    height: 301px;
+    position: relative;
+    left: 379px;
+    
+}
+.stand:hover {
+    background-color: black;
+}
+
+
